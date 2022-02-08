@@ -10,3 +10,4 @@ $("#currentDay").append(currentDayStart);
 $("#currentDay").addClass("lead");
 
 //get row description into local storage
+
